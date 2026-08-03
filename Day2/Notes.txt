@@ -17,3 +17,5 @@ Dynamic array :
 
 How to take input : using scanner class
 import java.util.scanner*;
+
+Prefix sum and Suffix sum 
