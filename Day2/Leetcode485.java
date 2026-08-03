@@ -1,7 +1,7 @@
 package Day2;
 
 class Leetcode485{
-    public int findmaximumconsecutive(int[] nums){
+    public int findMaximumConsecutive(int[] nums){
         int count = 0;
         int max = 0;
         for(int num : nums){
