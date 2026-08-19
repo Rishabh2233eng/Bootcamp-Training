@@ -1,6 +1,6 @@
 package Day8;
 
-public class InsertAtFirst {
+public class Insert at first {
 
     static class Node {
         int data;
