@@ -10,7 +10,7 @@ class Leetcode78 {
             int index,
             List<Integer> current,
             List<List<Integer>> result) {
-        // Add current subset
+    // Add current subset
         result.add(new ArrayList<>(current));
         // Try every remaining element
         for (int i = index; i < nums.length; i++) {
